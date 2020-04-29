@@ -7,4 +7,7 @@ Add Maven based project
 Craete jenkins server for integration of the code 
 JENKINS install on the server 
 Jenkins should be up and running 
+Use comman systemctl start jenkins 
+USer command systemctl status jenkins
+
 
