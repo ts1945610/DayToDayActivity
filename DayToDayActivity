@@ -4,5 +4,7 @@ check application is up and running
 check any code need to be deploye
 then do configuration 
 Add Maven based project
-
+Craete jenkins server for integration of the code 
+JENKINS install on the server 
+Jenkins should be up and running 
 
